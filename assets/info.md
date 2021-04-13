@@ -1,0 +1,1 @@
+# Recursos estáticos dentro de la aplicación que no van a ser removidos.
