@@ -1,0 +1,25 @@
+{
+  "name": "02-blackjack",
+  "version": "0.0.1",
+  "description": "Juego de cartas llamado Blackjack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verdizone/BlackjackApp.git"
+  },
+  "keywords": [
+    "juego",
+    "blackjack",
+    "javascript"
+  ],
+  "author": "Jeroham Miranda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/verdizone/BlackjackApp/issues"
+  },
+  "homepage": "https://github.com/verdizone/BlackjackApp#readme",
+  "dependencies": {}
+}
